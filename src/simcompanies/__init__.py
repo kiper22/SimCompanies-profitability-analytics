@@ -1,0 +1,1 @@
+"""SimCompanies BI project package."""

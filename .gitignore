@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Environments and secrets
+.venv/
+venv/
+env/
+.env
+.env.*
+!.env.example
+
+# Editors / operating systems
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Ignore generated and collected data
+/data/*
+
+# Keep reference workbook
+!/data/source/
+/data/source/*
+!/data/source/Book1.xlsx
+
+# Keep Gold layer
+!/data/gold/
+!/data/gold/**
+
+# Ignore temporary files and browser profiles
+firefox_market_profile/
+.playwright/
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Browser profiles and local authentication
+firefox_market_profile/
+.playwright/

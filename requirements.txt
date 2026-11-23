@@ -1,0 +1,18 @@
+# Data processing
+pandas
+pyspark
+
+# Excel reference workbook
+openpyxl
+
+# Browser-based market collection
+playwright
+
+# Streamlit reference-data manager
+streamlit
+
+# Image processing
+Pillow
+
+# Notebook kernel support
+ipykernel
